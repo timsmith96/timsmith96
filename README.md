@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">Full Stack JavaScript developer.</h3>
+<h3 align="center">Full Stack JavaScript developer</h3>
 
-- 🔭 My latest project: a [Facebook clone application](https://github.com/timsmith96/odinbook) built with the MERN stack. 
+- 🔭 My latest project: a [Facebook clone application](https://github.com/timsmith96/odinbook) built with the MERN stack
 
 - 🌱 I’m currently learning: TypeScript
 
