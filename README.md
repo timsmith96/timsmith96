@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning: TypeScript
 
-- 👨‍💻 All of my projects are available at: https://github.com/timsmith96
-
 
 <p align="left">
 </p>
